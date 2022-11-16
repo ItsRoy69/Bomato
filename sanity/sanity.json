@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "Deliveroo"
+    "name": "bomato"
   },
   "api": {
-    "projectId": "hohy53bd",
+    "projectId": "9hevvk08",
     "dataset": "production"
   },
   "plugins": [
