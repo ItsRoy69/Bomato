@@ -1,6 +1,6 @@
 # Deliveroo Clone
 
-iOS/Android React Native project of [Deliveroo](https://deliveroo.co.uk/). Built using REACT NATIVE with (Navigation, Redux, Tailwind CSS & Sanity.io)
+iOS/Android React Native project. Built using REACT NATIVE with (Navigation, Redux, Tailwind CSS & Sanity.io)
 
 <img src="assets/screenshots/app-demo.gif" width="300"/>
 
